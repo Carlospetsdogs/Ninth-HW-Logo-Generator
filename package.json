@@ -1,0 +1,23 @@
+{
+  "name": "ninth-hw-logo-generator",
+  "version": "1.0.0",
+  "description": "The purpose of this app is so that users can create an SVG logo from the command line after inputing data and answering prompts.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Carlospetsdogs/Ninth-HW-Logo-Generator.git"
+  },
+  "author": "Carlos J. Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlospetsdogs/Ninth-HW-Logo-Generator/issues"
+  },
+  "homepage": "https://github.com/Carlospetsdogs/Ninth-HW-Logo-Generator#readme"
+}
