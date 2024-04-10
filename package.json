@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Carlospetsdogs/Ninth-HW-Logo-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.17"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
     "jest": "^29.7.0"
